@@ -1,0 +1,14 @@
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\bin\Debug\net8.0\ejercicio 1.exe
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\bin\Debug\net8.0\ejercicio 1.deps.json
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\bin\Debug\net8.0\ejercicio 1.runtimeconfig.json
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\bin\Debug\net8.0\ejercicio 1.dll
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\bin\Debug\net8.0\ejercicio 1.pdb
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfo.cs
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.dll
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\refint\ejercicio 1.dll
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.pdb
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ejercicio 1.genruntimeconfig.cache
+C:\Users\tomio\OneDrive\Escritorio\EJERCICIOS\ejercicio 1\obj\Debug\net8.0\ref\ejercicio 1.dll
